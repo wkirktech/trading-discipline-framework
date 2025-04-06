@@ -9,7 +9,7 @@ This project outlines my personal trading discipline system, designed to reduce 
 
 The flowchart below represents my pre-market process for decision-making, preparation, and execution. It emphasizes mindfulness, structured analysis, and risk management.
 
-![Trading Flowchart](./assets/trading-flowchart.png)
+![Trading Flowchart](./assets/Wes Kirk Zen Turtle Trade plan v9.png)
 
 ---
 
